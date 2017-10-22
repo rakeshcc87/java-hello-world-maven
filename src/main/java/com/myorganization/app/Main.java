@@ -5,5 +5,6 @@ public class Main {
 
 		System.out.println("Hello, world!");
 #changes
+#2nd changes
 	}
 }
